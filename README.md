@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @canariotm
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-canariotm/canariotm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in Developping
+- 🌱 I’m currently learning To leaking xd
+- 💞️ I’m looking to collaborate on KS-SHOP
+- 📫 How to reach me in discord.io/ks-shop
