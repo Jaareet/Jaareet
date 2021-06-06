@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @canariotm
-- 👀 I’m interested in Developping
-- 🌱 I’m currently learning To leaking xd
-- 💞️ I’m looking to collaborate on KS-SHOP
-- 📫 How to reach me in discord.io/ks-shop
+
