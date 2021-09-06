@@ -27,7 +27,7 @@
 
 ![Snowflake107](https://github-readme-stats.vercel.app/api/top-langs?username=canariodev&show_icons=true&theme=tokyonight&layout=compact)
   
-<h2>📚 My best repos<h2>
+<h2>🛠️ My best repos<h2>
 
 <hr style="height:5px; border: 1px solid #ccc;">
 
