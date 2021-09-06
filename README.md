@@ -2,7 +2,8 @@
 
 <div align="center">
 
-# My Projects
+<h2>💻 Proyects<h2>
+
 | Project        | URL           | Description |
 | ------------- |:-------------:|:--------------:|
 | C-SHOP      | [Discord](https://discord.gg/Td6GzBSU9y) | C-SHOP specialized in FiveM services. |
