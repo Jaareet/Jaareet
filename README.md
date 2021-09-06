@@ -31,5 +31,5 @@
 
 <hr style="height:5px; border: 1px solid #ccc;">
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=canariodev&repo=esx_menu_design-v1)](https://https://github.com/canariodev/esx_menu_design-v1)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=canariodev&repo=esx_menu_design-v1)](https://github.com/canariodev/esx_menu_design-v1)
 </div>
