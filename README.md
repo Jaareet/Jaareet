@@ -3,13 +3,18 @@
 <div align="center">
 
 <h2>💻 Proyects<h2>
-#<hr style="height:5px; border: 1px solid #ccc;">
+
+  <hr style="height:5px; border: 1px solid #ccc;">
+  
+<h4>
 
 | Project        | URL           | Description |
 | ------------- |:-------------:|:--------------:|
 | C-SHOP      | [Discord](https://discord.gg/Td6GzBSU9y) | C-SHOP specialized in FiveM services. |
 | C-SHOP-WEBSITE | [Webpage](https://maincode-shop.es/) | C-SHOP Website |
 
+</h4>
+  
 <h2>📕 Stats<h2>
 
 <hr style="height:5px; border: 1px solid #ccc;">
