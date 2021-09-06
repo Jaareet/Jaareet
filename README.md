@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm canariodev <img src = "https://avatars.githubusercontent.com/u/80985233?s=400&u=0c1fb00e495512f7c519b9ba7efe4d6664cd05e2&v=4" style = "border-radius:100rem"></h1>
+<h1 align="center">Hello, I'm canariodev</h1>
 
 <div align="center">
 
