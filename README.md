@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm canariodev</h1>
+<h1 align="center" style = "text-transform:uppercase">Hello, I'm canariodev</h1>
 
 # My Projects
 | Project        | URL           | Description |
