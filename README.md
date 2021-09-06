@@ -1,5 +1,7 @@
 <h1 align="center">Hello, I'm canariodev</h1>
 
+<div align="center">
+
 # My Projects
 | Project        | URL           | Description |
 | ------------- |:-------------:|:--------------:|
