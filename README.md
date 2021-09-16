@@ -21,7 +21,7 @@
 
 <hr style="height:5px; border: 1px solid #ccc;">
 
-![Snowflake107](https://github-readme-stats.vercel.app/api?username=colfgcanario&show_icons=true&theme=tokyonight&hide=["issues"])
+![Snowflake107](https://github-readme-stats.vercel.app/api?username=Jaareet&show_icons=true&theme=tokyonight&hide=["issues"])
   
 <h2>🌍 Languages<h2>
 
