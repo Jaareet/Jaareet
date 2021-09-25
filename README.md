@@ -12,8 +12,9 @@
 
 | Project        | URL           | Description |
 | ------------- |:-------------:|:--------------:|
-<!-- | C-SHOP      | [Discord](https://discord.gg/Td6GzBSU9y) | C-SHOP specialized in FiveM services. | -->
 | C-SHOP-WEBSITE | [WebSite](https://maincode-shop.es/) | C-SHOP Website |
+  
+  <!-- | C-SHOP      | [Discord](https://discord.gg/Td6GzBSU9y) | C-SHOP specialized in FiveM services. | -->
 
 </h4>
   
