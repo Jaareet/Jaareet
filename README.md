@@ -12,6 +12,7 @@
 
 | Project        | URL           | Description |
 | ------------- |:-------------:|:--------------:|
+|Jareet's Community|[Discord](https://discord.gg/QgrN5x9CeS)|My Community's Discord Server|
 |FiveEye-AC|[Discord](https://discord.gg/AcvGDVX2mh)| Discord|
   
 <!-- | FiveEye-AC | [WebSite]() -->
