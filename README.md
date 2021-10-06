@@ -23,6 +23,12 @@
 
 </h4>
   
+  
+  <img src = "discord.app.ico">
+  
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/886670803234594856)](https://discord.com/users/886670803234594856)
+
+  
 <h2>📕 Stats<h2>
 
 <hr style="height:5px; border: 1px solid #ccc;">
