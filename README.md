@@ -1,10 +1,14 @@
-<h1 align="center">Hello, I'm Jaareet</h1>
-
 <div align="center">
 
-<h2>💻 Projects<h2>
+<hr width = "300vw">
 
-  <hr style="height:5px; border: 1px solid #ccc;">
+<h3 align="center">Hello, I'm Jaareet</h3>
+  
+<hr width = "300vw">
+
+<h3>💻 Projects<h3>
+
+<hr width = "500vw">
   
 [![FiveEye](https://img.shields.io/badge/-❤️%20FiveEye%20AC-000?)](https://fiveeyeac.com)
   
@@ -14,37 +18,31 @@
 | ------------- |:-------------:|:--------------:|
 |Jareet's Community|[Discord](https://dsc.gg/Jaareet)|My Community's Discord Server|
 |FiveEye-AC|[Discord](https://discord.gg/AcvGDVX2mh)| Discord|
-  
-<!-- | FiveEye-AC | [WebSite]() -->
-  
-<!-- | C-SHOP-WEBSITE | [WebSite](https://maincode-shop.es/) | C-SHOP Website | -->
-  
-  <!-- | C-SHOP      | [Discord](https://discord.gg/Td6GzBSU9y) | C-SHOP specialized in FiveM services. | -->
 
-</h4>
+<hr width = "500vw">
+
   
-  
-  <img src = "discord.app.ico" width = "50"> <h4>MY DISCORD'S PROFILE</h4>
-  <hr width = "500vw">
+<img src = "discord.app.ico" width = "50"> <h4>MY DISCORD'S PROFILE</h4>
+<hr width = "500vw">
   
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/886670803234594856)](https://discord.com/users/886670803234594856)
 
   
-<h2>📕 Stats<h2>
+<h3>📕 Stats<h3>
 
-<hr style="height:5px; border: 1px solid #ccc;">
+<hr width = "500vw">
 
 ![Snowflake107](https://github-readme-stats.vercel.app/api?username=Jaareet&show_icons=true&theme=tokyonight&hide=["issues"])
   
-<h2>🌍 Languages<h2>
+<h3>🌍 Languages<h3>
 
-<hr style="height:5px; border: 1px solid #ccc;">
+<hr width = "500vw">
 
 ![Snowflake107](https://github-readme-stats.vercel.app/api/top-langs?username=Jaareet&show_icons=true&theme=tokyonight&layout=compact)
   
-<h2>🛠️ My best repos<h2>
+<h3>🛠️ My best repos<h3>
 
-<hr style="height:5px; border: 1px solid #ccc;">
+<hr width = "500vw">
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Jaareet&repo=esx_menu_design-v1)](https://github.com/Jaareet/esx_menu_design-v1)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Jaareet&repo=c-chat)](https://github.com/Jaareet/c-chat)
