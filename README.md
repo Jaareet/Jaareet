@@ -24,7 +24,8 @@
 </h4>
   
   
-  <img src = "discord.app.ico">
+  <img src = "discord.app.ico" width = "50"> <h4>MY DISCORD'S PROFILE</h4>
+  <hr width = "500vw">
   
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/886670803234594856)](https://discord.com/users/886670803234594856)
 
