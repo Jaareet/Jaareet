@@ -10,8 +10,7 @@
 
 <hr width = "500vw">
   
-[![FiveEye](https://img.shields.io/badge/-❤️%20FiveEye%20AC-000?)](https://fiveeyeac.com)
-  
+ 
 <h4>
 
 | Project        | URL           | Description |
