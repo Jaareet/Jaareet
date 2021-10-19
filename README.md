@@ -17,8 +17,6 @@
 | Project        | URL           | Description |
 | ------------- |:-------------:|:--------------:|
 |Jareet's Community|[Discord](https://dsc.gg/Jaareet)|My Community's Discord Server|
-|FiveEye-AC|[Discord](https://discord.gg/AcvGDVX2mh)| Discord|
-
 <hr width = "500vw">
 
   
