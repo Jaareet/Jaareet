@@ -1,46 +1,46 @@
-<div align="center">
+<h3 align = 'center'>Bienvenido a mi Github, soy Jaareet</h3>
 
-<hr width = "300vw">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=cb204c&width=500&lines=Bienvenido" />
+</p>
 
-<h3 align="center">Hello, I'm Jaareet</h3>
+<hr>
+<img align="left" height="250" src="https://cdn.discordapp.com/avatars/886670803234594856/f31edffa70d083e2d9e346833458e7dc.png?size=1024"/>
+
+```diff
+@@ Recepción @@
+
+Learning JS,
+Working in RedEntity Team.
+
+Discord Community: https://discord.gg/EhrPUjVsXX
+
+```
+
+<div>
+  <div>
   
-<hr width = "300vw">
-
-<h3>💻 Projects<h3>
-
-<hr width = "500vw">
-  
- 
-<h4>
-
-| Project        | URL           | Description |
-| ------------- |:-------------:|:--------------:|
-|Jareet's Community|[Discord](https://dsc.gg/Jaareet)|My Community's Discord Server|
-<hr width = "500vw">
-
-  
-<img src = "discord.app.ico" width = "50"> <h4>MY DISCORD'S PROFILE</h4>
-<hr width = "500vw">
-  
+```diff
+Discord Profile
+```
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/886670803234594856)](https://discord.com/users/886670803234594856)
+    
+```diff
+Mi página web
+```
+    
+```diff
+https://Jaareet.github.io/main
+```
+    
+<hr>
+    
 
-  
-<h3>📕 Stats<h3>
 
-<hr width = "500vw">
+### Estadisticas de mi perfil !
 
 ![Snowflake107](https://github-readme-stats.vercel.app/api?username=Jaareet&show_icons=true&theme=tokyonight&hide=["issues"])
-  
-<h3>🌍 Languages<h3>
-
-<hr width = "500vw">
 
 ![Snowflake107](https://github-readme-stats.vercel.app/api/top-langs?username=Jaareet&show_icons=true&theme=tokyonight&layout=compact)
-  
-<h3>🛠️ My best repos<h3>
-
-<hr width = "500vw">
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Jaareet&repo=esx_menu_design-v1)](https://github.com/Jaareet/esx_menu_design-v1)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Jaareet&repo=c-chat)](https://github.com/Jaareet/c-chat)
-</div>
+    
+<hr>
