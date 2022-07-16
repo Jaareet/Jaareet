@@ -5,7 +5,7 @@
 </p>
 
 <hr>
-<img align="left" height="250" src="https://cdn.discordapp.com/avatars/886670803234594856/f31edffa70d083e2d9e346833458e7dc.png?size=1024"/>
+<img align="left" height="250" src="https://jaareet.es/logo.jpg"/>
 
 ```diff
 @@ Recepción @@
