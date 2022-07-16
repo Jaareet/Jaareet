@@ -23,7 +23,9 @@ Discord Community: https://discord.gg/EhrPUjVsXX
 ```diff
 Discord Profile
 ```
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/886670803234594856)](https://discord.com/users/886670803234594856)
+<!-- [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/886670803234594856)](https://discord.com/users/886670803234594856) -->
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/710608592100917420)](https://discord.com/users/710608592100917420)
     
     
     
