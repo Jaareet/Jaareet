@@ -13,7 +13,7 @@
 Learning JS,
 Working in RedEntity Team.
 
-Discord Community: https://discord.gg/EhrPUjVsXX
+Discord Community: https://discord.gg/wDuh3ZCqJk
 
 ```
 
