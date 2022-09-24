@@ -34,7 +34,7 @@ Mi página web
 ```
     
 ```diff
-https://Jaareet.github.io/main
+https://jaareet.es
 ```
     
 <hr>
