@@ -23,7 +23,7 @@ Discord Profile
 ```
 <!-- [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/886670803234594856)](https://discord.com/users/710608592100917420) -->
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/710608592100917420)](https://discord.com/users/710608592100917420)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/710608592100917420?&animated=true&borderRadius=25px&idleMessage=Sin%20%ninguna%20actividad)](https://discord.com/users/710608592100917420)
     
     
     
