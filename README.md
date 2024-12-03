@@ -5,14 +5,14 @@
 </p>
 
 <hr>
-<img align="left" height="250" src="https://jaareet.dev/img/logo.png"/>
+<img align="left" height="250" src="https://www.jaareet.dev/assets/img/logo.png"/>
 
 ```diff
 @@ ./Desk @@
 
-🌐 Website: http://jaareet.es
-🧿 Discord: http://discord.gg/UVePgAXQPm
-📩 Other contact form: support@jaareet.es
+🌐 Website: http://www.jaareet.dev
+🧿 Discord: http://www.jaareet.dev/discord
+📩 Other contact form: support@jaareet.dev
 ```
 
 <div>
@@ -32,7 +32,7 @@ Mi página web
 ```
     
 ```diff
-https://jaareet.es
+https://www.jaareet.dev
 ```
     
 <hr>
