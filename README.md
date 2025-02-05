@@ -5,7 +5,7 @@
 </p>
 
 <hr>
-<img align="left" height="250" src="https://www.jaareet.dev/assets/img/logo.png"/>
+<img align="left" height="250" src="https://www.jaareet.dev/img/logo.png"/>
 
 ```diff
 @@ ./Desk @@
